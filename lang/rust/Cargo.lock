@@ -50,6 +50,7 @@ dependencies = [
  "pretty_assertions",
  "quad-rand",
  "rand",
+ "ref_thread_local",
  "regex",
  "serde",
  "serde_bytes",
